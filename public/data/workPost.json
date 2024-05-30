@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Understanding React Hooks",
+      "year": "2022",
+      "shortNote": "Dashboard",
+      "shortDesc": "React Hooks revolutionized the way we write React components, providing a more concise and readable syntax compared to class components.",
+      "description": "React Hooks revolutionized the way we write React components, providing a more concise and readable syntax compared to class components. With Hooks, managing state and side effects directly inside functional components becomes feasible, reducing the need for higher-order components and render props. The shift towards Hooks promotes the use of functional programming principles in React development, enhancing code maintainability and scalability. This paradigm shift in React development is crucial for staying up-to-date with modern best practices. Understanding React Hooks is essential for developers looking to streamline their React codebase and leverage the latest features and improvements in the React ecosystem.",
+      "thumbnail": "https://picsum.photos/id/1/246/150"
+    },
+    {
+      "id": 2,
+      "title": "Next.js vs. Gatsby",
+      "year": "2024",
+      "shortNote": "Illustration",
+      "shortDesc": "Next.js and Gatsby are two popular frameworks for building web applications, each with its strengths and use cases.",
+      "description": "Next.js and Gatsby are two popular frameworks for building web applications, each with its strengths and use cases. Next.js focuses on server-side rendering and static site generation, offering more flexibility in handling server-side logic and API routes. On the other hand, Gatsby excels at static site generation and provides a smoother development experience with its plugin ecosystem and data layer. The choice between Next.js and Gatsby depends on factors such as project requirements, performance goals, and developer preferences. Understanding the differences between these frameworks is crucial for selecting the right tool for your web development projects.",
+      "thumbnail": "https://picsum.photos/id/2/246/150"
+    },
+    {
+      "id": 3,
+      "title": "Mastering JavaScript ES6",
+      "year": "2023",
+      "shortNote": "Typography",
+  
+      "shortDesc": "JavaScript ES6 introduced numerous features and improvements that have become standard in modern JavaScript development.",
+      "description": "JavaScript ES6 introduced numerous features and improvements that have become standard in modern JavaScript development. Features like arrow functions, template literals, and destructuring assignment enhance code readability and developer productivity. Mastering ES6 enables developers to write cleaner, more concise code and take advantage of the latest language features. Additionally, ES6 features such as classes and modules provide more structure and organization to JavaScript projects, making them easier to maintain and scale. As ES6 is widely supported across modern browsers and JavaScript environments, mastering its features is essential for staying competitive in the field of web development.",
+      "thumbnail": "https://picsum.photos/id/8/246/150"
+    },
+    {
+      "id": 4,
+      "title": "A Guide to CSS Flexbox",
+      "year": "2021",
+      "shortNote": "Dashboard",
+      "shortDesc": "CSS Flexbox is a powerful layout model that simplifies the creation of flexible and responsive designs",
+      "description": "CSS Flexbox is a powerful layout model that simplifies the creation of flexible and responsive designs. With Flexbox, developers can easily align and distribute elements within a container, regardless of their size or order. Understanding the properties and concepts of Flexbox, such as flex-direction and justify-content, is key to leveraging its full potential. Flexbox excels at creating complex layouts with minimal CSS code, making it a valuable tool for front-end developers. By mastering CSS Flexbox, developers can build modern and responsive web interfaces more efficiently, improving user experience and interface design.",
+      "thumbnail": "https://picsum.photos/id/9/246/150"
+    },
+    {
+      "id": 5,
+      "title": "Introduction to TypeScript",
+      "year": "2020",
+      "shortNote": "Illustration",
+      "shortDesc": "TypeScript is a superset of JavaScript that adds static typing to the language, enhancing code quality and maintainability.",
+      "description": "TypeScript is a superset of JavaScript that adds static typing to the language, enhancing code quality and maintainability. By specifying types for variables, functions, and objects, TypeScript helps catch errors early in the development process. This leads to more robust and maintainable codebases, especially in large-scale projects. TypeScript also enhances developer tooling by providing features like code navigation and intelligent code completion. Learning TypeScript is beneficial for JavaScript developers looking to improve code quality, increase productivity, and build more reliable software applications.",
+      "thumbnail": "https://picsum.photos/id/66/246/150"
+    },
+    {
+      "id": 6,
+      "title": "Building RESTful APIs with Node.js",
+      "year": "2020",
+      "shortNote": "Typography",
+      "shortDesc": "Node.js combined with Express.js offers a powerful platform for building RESTful APIs, leveraging JavaScript's versatility for server-side development.",
+      "description": "Node.js combined with Express.js offers a powerful platform for building RESTful APIs, leveraging JavaScript's versatility for server-side development. RESTful APIs follow the principles of REST architecture, making them scalable, maintainable, and platform-independent. Building RESTful APIs with Node.js involves handling HTTP requests, defining routes, and interacting with databases. With Node.js's non-blocking I/O model, developers can build high-performance APIs that handle concurrent requests efficiently. By mastering Node.js and Express.js, developers can create robust and scalable backend solutions for modern web applications, ensuring optimal performance and scalability.",
+      "thumbnail": "https://picsum.photos/id/5/246/150"
+    }
+  ]
+  
